@@ -4,12 +4,13 @@
 ### Задание №1 - Подготовка рабочей среды
 
 Terraform:
-![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Terraform.jpg "Описание будет тут")
+![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Terraform.jpg "Terraform")
 Bash:
-![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Bash.jpg "Описание будет тут")
+![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Bash.jpg "Bash")
 Markdown:
-![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Markdown.jpg "Описанте будет тут")
+![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Markdown.jpg "Markdown")
 Yaml:
-![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Yaml.jpg "Описание будет тут")
+![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Yaml.jpg "Yaml")
 Jsonnet:
-![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Jsonnet.jpg "Описание будет тут")
+![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Jsonnet.jpg "Jsonnet")
+### Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
