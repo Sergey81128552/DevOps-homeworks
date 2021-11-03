@@ -1,7 +1,7 @@
 # DevOps-homeworks
 1.1. Введение в DevOps — Сергей Емельянов
-
-Задание №1 - Подготовка рабочей среды
+-----------------------------------------
+### Задание №1 - Подготовка рабочей среды
 
 Terraform:
 ![alt text](https://github.com/Sergey81128552/DevOps-homeworks/blob/main/Terraform.jpg "Описание будет тут")
