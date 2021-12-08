@@ -25,6 +25,8 @@ Jsonnet:
 5. Эксплуатация и сопровождение
 
 ### 2.4. Инструменты Git - Сергей Емельянов
+--------------------------------------------
+
 1. $ git show aefea --pretty=oneline --quiet
 aefead2207ef7e2aa5dc81a34aedf0cad4c32545 Update CHANGELOG.md
 	
